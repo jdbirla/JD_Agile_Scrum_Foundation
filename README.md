@@ -97,15 +97,34 @@
 ![image](https://user-images.githubusercontent.com/69948118/177222903-8e595dea-1e46-40c7-8e9b-742969c96b75.png)
 
 
-
-
-
-
-## 3.2 Scenario — 1 Stand-up Meeting
-
 ## Lesson 4 :Scrum Planning
 
 ## 4.1 Scrum Planning
+
+![image](https://user-images.githubusercontent.com/69948118/177223769-f4a6322c-8697-4364-ab38-b3ec7eacdb62.png)
+![image](https://user-images.githubusercontent.com/69948118/177223789-073e5c5a-351c-4626-9914-0fe37b053260.png)
+![image](https://user-images.githubusercontent.com/69948118/177223806-e59a21fc-2ce9-4e36-8d4e-0c172567e149.png)
+![image](https://user-images.githubusercontent.com/69948118/177223824-ce820d6b-39e9-43db-986e-1be6bea5ddf3.png)
+![image](https://user-images.githubusercontent.com/69948118/177223834-0e48da64-e27c-43c4-8b23-f7efcdbef750.png)
+![image](https://user-images.githubusercontent.com/69948118/177223849-edb790e4-c368-4efd-994d-008876711d78.png)
+![image](https://user-images.githubusercontent.com/69948118/177223866-448d1323-876c-45d1-ae74-6448f708d26e.png)
+![image](https://user-images.githubusercontent.com/69948118/177223889-b4c64379-25f3-4273-becf-ed9e69323029.png)
+![image](https://user-images.githubusercontent.com/69948118/177223902-f4f8d29a-88de-4006-a353-4b43d0e006f5.png)
+![image](https://user-images.githubusercontent.com/69948118/177223924-b84d685b-cfff-41c7-868e-59a0287c775a.png)
+![image](https://user-images.githubusercontent.com/69948118/177223935-19130ab3-4254-4f8b-8618-fa584744df78.png)
+![image](https://user-images.githubusercontent.com/69948118/177223964-80ad3b04-c23c-4ecc-a049-60b9e3e57214.png)
+![image](https://user-images.githubusercontent.com/69948118/177224008-f94c3966-a28e-4498-b9b0-333860a3e5cf.png)
+![image](https://user-images.githubusercontent.com/69948118/177224048-22efe8ed-0fb1-472c-9b28-4e0895e11f1d.png)
+![image](https://user-images.githubusercontent.com/69948118/177224070-7637a3fc-a65f-405a-9d63-b75810a0a191.png)
+![image](https://user-images.githubusercontent.com/69948118/177224089-09f50c82-24bb-4d78-9418-71ac4bae28e6.png)
+![image](https://user-images.githubusercontent.com/69948118/177224165-68810060-9816-4cd8-9fc4-885ce62e8306.png)
+![image](https://user-images.githubusercontent.com/69948118/177224193-2f3bf887-eb6a-4c30-a210-47cc358d1437.png)
+![image](https://user-images.githubusercontent.com/69948118/177224257-29676155-c506-442b-b99e-c2cea0ae8cc5.png)
+![image](https://user-images.githubusercontent.com/69948118/177224297-9afe4c57-62f8-4ce7-9ae4-257751092fa9.png)
+![image](https://user-images.githubusercontent.com/69948118/177224323-d9be7dd6-5989-454c-83ce-2044208f626b.png)
+![image](https://user-images.githubusercontent.com/69948118/177224418-394565c5-8316-45b5-ab04-70ae0648b435.png)
+
+
 
 ## Lesson 5 :Scrum Estimations
 
