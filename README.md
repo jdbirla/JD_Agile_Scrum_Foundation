@@ -146,14 +146,16 @@
 ![image](https://user-images.githubusercontent.com/69948118/177225137-b5bae3d6-b70c-4937-a599-d15ca46ec610.png)
 
 
-
-
-
-## 5.2 Scenario — 2 Planning Poker
-
 ## Lesson 6 :Scrum Monitoring
-
 ## 6.1 Scrum Monitoring
+![image](https://user-images.githubusercontent.com/69948118/177225843-de1bc3e2-958f-4bf5-8395-39805251b5b6.png)
+![image](https://user-images.githubusercontent.com/69948118/177225870-5ea5c863-6ad1-440d-aa24-9c4ba7947ba8.png)
+![image](https://user-images.githubusercontent.com/69948118/177225895-9a5f69b2-137a-472f-8dce-05338790358c.png)
+![image](https://user-images.githubusercontent.com/69948118/177225908-89f8acec-52d5-423c-980d-8a7656bfc446.png)
+![image](https://user-images.githubusercontent.com/69948118/177225950-03117396-4fc8-48b9-ae7c-84cfaabcf86c.png)
+![image](https://user-images.githubusercontent.com/69948118/177226012-88c4289d-99a1-4011-acad-47aecf53b2a7.png)
+![image](https://user-images.githubusercontent.com/69948118/177226023-f72fa09d-8449-46c1-b3a2-b697ffd5b690.png)
+![image](https://user-images.githubusercontent.com/69948118/177226063-3f162237-311a-4763-b1b2-79191969ee8f.png)
 
 
 
