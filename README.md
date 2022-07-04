@@ -39,6 +39,31 @@
 
 ![image](https://user-images.githubusercontent.com/69948118/177104058-6f6bce37-df7e-4e04-b508-323bc0b674f7.png)
 
+## Lesson 2 : Roles and Rituals
+
+## 2.1 Roles and Rituals
+
+
+## Lesson 3 :Scrum Practices
+
+## 3.1 Scrum Practices
+
+
+## 3.2 Scenario — 1 Stand-up Meeting
+
+## Lesson 4 :Scrum Planning
+
+## 4.1 Scrum Planning
+
+## Lesson 5 :Scrum Estimations
+
+## 5.1 Scrum Estimations
+
+## 5.2 Scenario — 2 Planning Poker
+
+## Lesson 6 :Scrum Monitoring
+
+## 6.1 Scrum Monitoring
 
 
 
