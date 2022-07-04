@@ -130,6 +130,25 @@
 
 ## 5.1 Scrum Estimations
 
+![image](https://user-images.githubusercontent.com/69948118/177224616-94c11181-a5e1-4d24-8f2d-bb9a079ab84e.png)
+![image](https://user-images.githubusercontent.com/69948118/177224644-297b5384-8f6a-46cc-8998-765bef09bfaa.png)
+![image](https://user-images.githubusercontent.com/69948118/177224667-131ef882-eab1-48ae-a6f3-468f650207e5.png)
+![image](https://user-images.githubusercontent.com/69948118/177224685-6047314f-c511-472b-8627-e2bc9b1d040c.png)
+![image](https://user-images.githubusercontent.com/69948118/177224699-09102937-7043-4b9e-9837-85764e3e348e.png)
+![image](https://user-images.githubusercontent.com/69948118/177224735-25ce9eef-2d02-47ec-b56c-482f81cb80ad.png)
+![image](https://user-images.githubusercontent.com/69948118/177224745-98867de8-69d8-409a-8539-0cddc6682215.png)
+![image](https://user-images.githubusercontent.com/69948118/177224803-c8db6062-ce78-41ad-b0c3-4e01ad432fe4.png)
+![image](https://user-images.githubusercontent.com/69948118/177224887-6fbda7ec-a683-4dbc-90c4-81b6bae6c963.png)
+![image](https://user-images.githubusercontent.com/69948118/177224899-0813a689-d48a-443f-a745-8a60a7f4420c.png)
+![image](https://user-images.githubusercontent.com/69948118/177224943-50c1d3d5-c262-49ba-b34d-6c62be0b68ac.png)
+![image](https://user-images.githubusercontent.com/69948118/177225017-649c3079-dfb2-49e4-b8fc-702b431f9b9b.png)
+![image](https://user-images.githubusercontent.com/69948118/177225074-1e29c1b3-46f7-44a7-9585-5e7565e015a7.png)
+![image](https://user-images.githubusercontent.com/69948118/177225137-b5bae3d6-b70c-4937-a599-d15ca46ec610.png)
+
+
+
+
+
 ## 5.2 Scenario — 2 Planning Poker
 
 ## Lesson 6 :Scrum Monitoring
