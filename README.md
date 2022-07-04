@@ -68,6 +68,37 @@
 ## Lesson 3 :Scrum Practices
 
 ## 3.1 Scrum Practices
+![image](https://user-images.githubusercontent.com/69948118/177222241-1adbd14a-b63e-4e3e-a6ef-a25c503de8dc.png)
+![image](https://user-images.githubusercontent.com/69948118/177222258-98c4a8a3-337f-4996-8401-09a412039179.png)
+![image](https://user-images.githubusercontent.com/69948118/177222281-15a6978b-f876-44f3-a56e-8a7972512621.png)
+![image](https://user-images.githubusercontent.com/69948118/177222288-3a7aad14-f062-490f-9e39-50c4596a0a42.png)
+![image](https://user-images.githubusercontent.com/69948118/177222298-968a3567-6baf-4e2a-808b-169af37cb583.png)
+![image](https://user-images.githubusercontent.com/69948118/177222318-2eb34abe-afc0-4a16-bccc-ed66f157460a.png)
+![image](https://user-images.githubusercontent.com/69948118/177222356-225eb6a5-d9e9-4896-9526-13830b131acd.png)
+![image](https://user-images.githubusercontent.com/69948118/177222401-ef5f00fc-7435-4bf0-9893-839a126c4a64.png)
+![image](https://user-images.githubusercontent.com/69948118/177222416-da7875dc-94c6-4269-9bf7-442fb969947b.png)
+![image](https://user-images.githubusercontent.com/69948118/177222426-35d1cb15-dd28-443e-8686-c65c93b01c8b.png)
+![image](https://user-images.githubusercontent.com/69948118/177222442-b72cee56-96f3-47a3-b584-9e40a1fb2214.png)
+![image](https://user-images.githubusercontent.com/69948118/177222448-5df33b4b-cb66-4a8b-b895-3dce8c33b570.png)
+![image](https://user-images.githubusercontent.com/69948118/177222469-b57be295-5d36-4b52-bc33-6e475ede941c.png)
+![image](https://user-images.githubusercontent.com/69948118/177222490-0db2998f-9618-4237-b8ce-a35efdcab24f.png)
+![image](https://user-images.githubusercontent.com/69948118/177222554-95617087-0f21-40b6-bb29-6783ad1bd519.png)
+![image](https://user-images.githubusercontent.com/69948118/177222615-8b8ef175-d1fc-4041-82d7-2d3ac03f3c8a.png)
+![image](https://user-images.githubusercontent.com/69948118/177222625-3a2f83cc-d491-4e6d-90c7-f27b61aff369.png)
+![image](https://user-images.githubusercontent.com/69948118/177222654-58be9f89-4194-4cd0-9f41-39f6c83d7104.png)
+![image](https://user-images.githubusercontent.com/69948118/177222670-1a3ee2f2-aad2-4ee3-8947-82734c24aa4b.png)
+![image](https://user-images.githubusercontent.com/69948118/177222681-7c642c44-63a9-48ce-a5cb-5e95cccef157.png)
+![image](https://user-images.githubusercontent.com/69948118/177222722-071dab72-9007-4165-bcd2-abfdd27e0efb.png)
+![image](https://user-images.githubusercontent.com/69948118/177222737-5c85e4cd-bbaa-42a6-bf76-39f871dfd2e6.png)
+![image](https://user-images.githubusercontent.com/69948118/177222774-518f582a-701d-4fff-8a7b-44162d7626e6.png)
+![image](https://user-images.githubusercontent.com/69948118/177222837-18fc5703-93d3-4993-93b9-347378b7407d.png)
+![image](https://user-images.githubusercontent.com/69948118/177222861-5f3f5882-f7aa-4652-9d76-1aa2ba5b19f5.png)
+![image](https://user-images.githubusercontent.com/69948118/177222893-95dc4689-8a28-4893-89d1-9b1f5a17a6c4.png)
+![image](https://user-images.githubusercontent.com/69948118/177222903-8e595dea-1e46-40c7-8e9b-742969c96b75.png)
+
+
+
+
 
 
 ## 3.2 Scenario — 1 Stand-up Meeting
