@@ -42,6 +42,27 @@
 ## Lesson 2 : Roles and Rituals
 
 ## 2.1 Roles and Rituals
+![image](https://user-images.githubusercontent.com/69948118/177117225-5fbff219-047f-42be-895e-0eaea31c4301.png)
+![image](https://user-images.githubusercontent.com/69948118/177117278-8ccce7e9-67db-424e-8df9-54cf0100cc80.png)
+![image](https://user-images.githubusercontent.com/69948118/177117312-e15e9484-42d6-493f-879e-cb57b6ba1f51.png)
+![image](https://user-images.githubusercontent.com/69948118/177117446-3d2b8c05-0dca-44dc-a1a5-9d09d180ecff.png)
+![image](https://user-images.githubusercontent.com/69948118/177117634-5e5fc3d2-0cef-42a5-8d2f-483ac046cca6.png)
+![image](https://user-images.githubusercontent.com/69948118/177117826-cbdf8c9d-90dc-49d2-b98d-6f0ee6f93178.png)
+![image](https://user-images.githubusercontent.com/69948118/177117911-a3e52bcc-91b5-43f7-9750-9f453b55503f.png)
+![image](https://user-images.githubusercontent.com/69948118/177118007-8b9b0db1-8382-4ee2-9932-04b3ed3088b3.png)
+![image](https://user-images.githubusercontent.com/69948118/177118183-41c366e4-9058-4b1b-ac8a-250ab937fa4c.png)
+![image](https://user-images.githubusercontent.com/69948118/177118261-f2beeec3-8902-49d1-960c-f68dd572959b.png)
+![image](https://user-images.githubusercontent.com/69948118/177118290-7f1c8476-1836-4590-9139-32d81375d0d1.png)
+![image](https://user-images.githubusercontent.com/69948118/177118378-505845e1-587c-4d97-beeb-c9633f5d824f.png)
+![image](https://user-images.githubusercontent.com/69948118/177118444-ec9c5745-411a-46f2-889d-c1c66ad8f08c.png)
+![image](https://user-images.githubusercontent.com/69948118/177118591-d5301292-620f-4d99-b95e-a971249119b2.png)
+![image](https://user-images.githubusercontent.com/69948118/177118746-52856899-b6b8-4565-8235-e8246cd9e62d.png)
+![image](https://user-images.githubusercontent.com/69948118/177118985-e6d310e9-be7b-467e-ae75-f2e10bf0438c.png)
+![image](https://user-images.githubusercontent.com/69948118/177119050-e578757c-121e-4e16-9c08-e1294db6b5d5.png)
+![image](https://user-images.githubusercontent.com/69948118/177119139-fc14550d-ff36-4f20-8c59-4b25b0f66eb9.png)
+![image](https://user-images.githubusercontent.com/69948118/177119300-574d0653-3dcd-41b4-8c36-63130c8af5b1.png)
+
+
 
 
 ## Lesson 3 :Scrum Practices
