@@ -158,6 +158,25 @@
 ![image](https://user-images.githubusercontent.com/69948118/177226063-3f162237-311a-4763-b1b2-79191969ee8f.png)
 
 
+## Lesson 7 :  Advanced Scrum Concepts
+## 7.1 Advanced Scrum Concepts
+![image](https://user-images.githubusercontent.com/69948118/177226209-d3c2755c-dab8-4787-b6d6-8569f096bffa.png)
+![image](https://user-images.githubusercontent.com/69948118/177226279-85f109d6-27a0-451e-99f7-20ed883c5aa8.png)
+![image](https://user-images.githubusercontent.com/69948118/177226337-24ae506c-4a1b-41ee-bb7e-dd15ded73977.png)
+![image](https://user-images.githubusercontent.com/69948118/177226373-7bda3b80-8323-43ab-9420-00cb8eb338a9.png)
+![image](https://user-images.githubusercontent.com/69948118/177226409-8880f4cc-c83e-4569-b0af-86a42d0bd18b.png)
+![image](https://user-images.githubusercontent.com/69948118/177226430-de5fe37e-8a81-44e4-a2aa-e81f6b4d1519.png)
+![image](https://user-images.githubusercontent.com/69948118/177226576-1d9968b6-d507-4fc6-8e68-cd96ebfb84c0.png)
+![image](https://user-images.githubusercontent.com/69948118/177226620-e371635e-9b88-4763-9b3b-f32dee411ba6.png)
+![image](https://user-images.githubusercontent.com/69948118/177226728-94457783-fd48-441c-ae14-8d7374505157.png)
 
+
+
+
+Lesson 8
+
+Scrum Overview
+
+8.1 Scrum Overview
 
 
