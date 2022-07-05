@@ -171,12 +171,10 @@
 ![image](https://user-images.githubusercontent.com/69948118/177226728-94457783-fd48-441c-ae14-8d7374505157.png)
 
 
+## Lesson 8 : Scrum Overview
+## 8.1 Scrum Overview
+![image](https://user-images.githubusercontent.com/69948118/177226921-c2136b67-f7c6-400a-a4ec-05c47e3bf679.png)
+![image](https://user-images.githubusercontent.com/69948118/177226951-e34ed3f2-655d-4ec6-b8ca-4cc9af550def.png)
 
-
-Lesson 8
-
-Scrum Overview
-
-8.1 Scrum Overview
 
 
