@@ -1,2 +1,10 @@
 # Jira
-
+![image](https://github.com/jdbirla/JD_Agile_Scrum_Foundation/assets/69948118/a9eb3e2b-802c-45e7-9987-b254b4e0a88e)
+![image](https://github.com/jdbirla/JD_Agile_Scrum_Foundation/assets/69948118/2b0e5ba9-3b36-4d72-bac9-7572995859a0)
+![image](https://github.com/jdbirla/JD_Agile_Scrum_Foundation/assets/69948118/3c11a40f-ab7a-461c-afaf-891fd93eb835)
+![image](https://github.com/jdbirla/JD_Agile_Scrum_Foundation/assets/69948118/32638ef9-12e9-4dba-aa03-bcd07243e069)
+![image](https://github.com/jdbirla/JD_Agile_Scrum_Foundation/assets/69948118/15281d87-9d0f-4d56-b1e4-94ee4881b1f9)
+![image](https://github.com/jdbirla/JD_Agile_Scrum_Foundation/assets/69948118/2601b177-57e2-4c24-ab16-cd473d3c72ba)
+![image](https://github.com/jdbirla/JD_Agile_Scrum_Foundation/assets/69948118/e4c8a85a-e5c8-4415-8a6f-90d69bf5984f)
+![image](https://github.com/jdbirla/JD_Agile_Scrum_Foundation/assets/69948118/9bcc0c8a-3c42-4ebd-ab32-a9355e549ee7)
+![image](https://github.com/jdbirla/JD_Agile_Scrum_Foundation/assets/69948118/f40a4e2a-9a6d-4d66-a0c6-c1304be8b25b)
